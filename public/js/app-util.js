@@ -359,7 +359,7 @@ sysPass.Util = function (log) {
                 numlength: 12
             },
             charset: {
-                special: "!\"\\·@|#$~%&/()=?'¿¡^*[]·;,_-{}<>",
+                special: "!\"\\·@|#$~%&/()=?'^*[];,_-{}<>",
                 number: "1234567890",
                 char: "abcdefghijklmnopqrstuvwxyz"
             }
